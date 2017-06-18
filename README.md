@@ -1,3 +1,8 @@
-### Cassandra Dump and Restore Scripts (python/shell)
+## Cassandra Dump and Restore Scripts (python/shell)
 
-#### WIP
+### WIP
+
+### cass_dump.py
+Dumping all keyspaces from Cassandra into csv files.
+
+### Example
